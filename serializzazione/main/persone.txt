@@ -1,0 +1,5 @@
+Persona;Mario;Rossi;30
+Persona;Aldo;Verdi;35
+Bambino;Sergio;Neri;1;30-01-2025
+Bambino;Piero;Gialli;2;28-02-2024
+Persona;Carlo;Arancioni;24
